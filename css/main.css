@@ -2181,12 +2181,12 @@ header {
 }
 
 .banner-area {
-  background: url(../img/rings.jpg) no-repeat center center/cover;
+  background: url(../img/rings.jpg) no-repeat center;
 }
 
 @media (max-width: 767px) {
   .banner-area .fullscreen {
-    height: 700px !important;
+    height: 700px ;
   }
 }
 
